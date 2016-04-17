@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="wechat_icon" format="reference"></attr>
+    <attr name="wechat_color" format="color"></attr>
+    <attr name="wechat_text" format="string"></attr>
+    <attr name="wechat_text_size" format="dimension"></attr>
+
+    <declare-styleable name="ChangeColorIconWithText">
+        <attr name="wechat_icon"></attr>
+        <attr name="wechat_color"></attr>
+        <attr name="wechat_text"></attr>
+        <attr name="wechat_text_size"></attr>
+    </declare-styleable>
+</resources>
